@@ -19,7 +19,7 @@
 <br>
 <h3 align="center">изучаю</h3>
 <p align="center">1. Java Script 💕</p>
-<p align="center">3. C++ ✨</p>
+<p align="center">2. C++ ✨</p>
 
 
 
