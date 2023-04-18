@@ -5,7 +5,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/95037701/209672053-ddc28714-867f-4cb6-8b7b-0818d8df03ce.jpg" width="400">
 
 <h2 align="center">Жёсткий прошрамист</h2>
-<p>1. Учу фронтенд 4 месяца 💪 </p>
+<p>1. Учу фронтенд 8 месяцев 💪 </p>
 <p>2. Изучал питон больше года 😎</p>
 <p>3. Работал с Sql Base и TelegramBotApi ⭐</p>
 
@@ -17,9 +17,8 @@
 <img src="https://media.tenor.com/ibfyZzInEFgAAAAM/studying-kid.gif" width="300" align="right">
 <br>
 <br>
-<h3 align="center">Хочу изучить</h3>
+<h3 align="center">изучаю</h3>
 <p align="center">1. Java Script 💕</p>
-<p align="center">2. Адаптив сайтов 😍</p>
 <p align="center">3. C++ ✨</p>
 
 
