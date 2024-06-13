@@ -4,7 +4,7 @@
 <h1> Hi, I'm Sasha 😉 </h1>
 <img align="left" src="https://user-images.githubusercontent.com/95037701/209672053-ddc28714-867f-4cb6-8b7b-0818d8df03ce.jpg" width="400">
 
-<h2 align="center">Жёсткий прошрамист</h2>
+<h2 align="center">Жёсткий програмист</h2>
 
 
 
